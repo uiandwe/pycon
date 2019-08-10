@@ -1,0 +1,472 @@
+[
+  [
+    {
+      "spence": [
+        "chicken",
+        "chicken sandwich",
+        "chicken sandwich"
+      ],
+      "solomon": [
+        "cajun chicken salad",
+        "chicken soup",
+        "chicken"
+      ],
+      "poincare": [
+        "chicken"
+      ],
+      "engelbart": [
+        "cajun chicken salad",
+        "chicken soup",
+        "chicken"
+      ],
+      "ptolemy": [
+        "chicken soup",
+        "chicken",
+        "cajun chicken salad"
+      ],
+      "feistel": [
+        "chicken",
+        "pizza"
+      ]
+    },
+    [
+      [
+        "spence"
+      ],
+      [
+        "solomon",
+        "engelbart",
+        "ptolemy"
+      ],
+      [
+        "poincare"
+      ],
+      [
+        "feistel"
+      ]
+    ]
+  ],
+  [
+    {
+      "wilson": [
+        "chicken",
+        "pizza"
+      ],
+      "torvalds": [
+        "cajun chicken salad",
+        "chicken sandwich"
+      ],
+      "lalande": [
+        "cajun chicken salad",
+        "chicken soup"
+      ],
+      "meitner": [
+        "cajun chicken salad",
+        "chicken",
+        "chicken soup"
+      ],
+      "kepler": [
+        "chicken soup"
+      ],
+      "leakey": [
+        "chicken",
+        "chicken soup"
+      ]
+    },
+    [
+      [
+        "wilson"
+      ],
+      [
+        "torvalds"
+      ],
+      [
+        "lalande"
+      ],
+      [
+        "meitner"
+      ],
+      [
+        "kepler"
+      ],
+      [
+        "leakey"
+      ]
+    ]
+  ],
+  [
+    {
+      "golick": [
+        "cajun chicken salad"
+      ],
+      "tu": [
+        "chicken"
+      ],
+      "bouman": [
+        "cajun chicken salad"
+      ],
+      "jennings": [
+        "chicken sandwich",
+        "chicken soup",
+        "chicken soup"
+      ],
+      "ardinghelli": [
+        "pizza",
+        "cajun chicken salad"
+      ],
+      "colden": [
+        "chicken",
+        "chicken",
+        "cajun chicken salad"
+      ]
+    },
+    [
+      [
+        "golick",
+        "bouman"
+      ],
+      [
+        "tu"
+      ],
+      [
+        "jennings"
+      ],
+      [
+        "ardinghelli"
+      ],
+      [
+        "colden"
+      ]
+    ]
+  ],
+  [
+    {
+      "borg": [
+        "chicken",
+        "chicken soup",
+        "chicken sandwich"
+      ],
+      "colden": [
+        "cajun chicken salad",
+        "chicken sandwich",
+        "chicken soup"
+      ],
+      "ride": [
+        "chicken soup",
+        "chicken sandwich",
+        "chicken soup"
+      ],
+      "ishizaka": [
+        "pizza",
+        "chicken",
+        "chicken sandwich"
+      ],
+      "volhard": [
+        "cajun chicken salad"
+      ],
+      "williamson": [
+        "chicken sandwich",
+        "chicken soup",
+        "pizza"
+      ]
+    },
+    [
+      [
+        "borg"
+      ],
+      [
+        "colden"
+      ],
+      [
+        "ride"
+      ],
+      [
+        "ishizaka"
+      ],
+      [
+        "volhard"
+      ],
+      [
+        "williamson"
+      ]
+    ]
+  ],
+  [
+    {
+      "knuth": [
+        "pizza",
+        "chicken",
+        "pizza"
+      ],
+      "faraday": [
+        "chicken soup",
+        "pizza",
+        "chicken"
+      ],
+      "heyrovsky": [
+        "chicken",
+        "cajun chicken salad",
+        "pizza"
+      ],
+      "turing": [
+        "pizza"
+      ],
+      "wing": [
+        "chicken sandwich",
+        "chicken soup"
+      ],
+      "boyd": [
+        "cajun chicken salad",
+        "cajun chicken salad"
+      ]
+    },
+    [
+      [
+        "knuth"
+      ],
+      [
+        "faraday"
+      ],
+      [
+        "heyrovsky"
+      ],
+      [
+        "turing"
+      ],
+      [
+        "wing"
+      ],
+      [
+        "boyd"
+      ]
+    ]
+  ],
+  [
+    {
+      "mcnulty": [
+        "chicken soup"
+      ],
+      "sutherland": [
+        "chicken sandwich"
+      ],
+      "thompson": [
+        "chicken"
+      ],
+      "jones": [
+        "chicken"
+      ],
+      "archimedes": [
+        "chicken soup"
+      ],
+      "driscoll": [
+        "chicken"
+      ]
+    },
+    [
+      [
+        "mcnulty",
+        "archimedes"
+      ],
+      [
+        "sutherland"
+      ],
+      [
+        "thompson",
+        "jones",
+        "driscoll"
+      ]
+    ]
+  ],
+  [
+    {
+      "cerf": [
+        "cajun chicken salad",
+        "cajun chicken salad",
+        "chicken soup"
+      ],
+      "wozniak": [
+        "chicken",
+        "cajun chicken salad",
+        "chicken"
+      ],
+      "clarke": [
+        "chicken",
+        "chicken sandwich",
+        "chicken soup"
+      ],
+      "goldberg": [
+        "pizza",
+        "pizza"
+      ],
+      "brattain": [
+        "pizza"
+      ],
+      "aryabhata": [
+        "chicken sandwich",
+        "chicken sandwich",
+        "chicken"
+      ]
+    },
+    [
+      [
+        "cerf"
+      ],
+      [
+        "wozniak"
+      ],
+      [
+        "clarke"
+      ],
+      [
+        "goldberg"
+      ],
+      [
+        "brattain"
+      ],
+      [
+        "aryabhata"
+      ]
+    ]
+  ],
+  [
+    {
+      "hypatia": [
+        "cajun chicken salad"
+      ],
+      "brahmagupta": [
+        "chicken",
+        "chicken sandwich"
+      ],
+      "leavitt": [
+        "chicken sandwich",
+        "pizza",
+        "chicken"
+      ],
+      "ritchie": [
+        "chicken sandwich",
+        "cajun chicken salad",
+        "chicken sandwich"
+      ],
+      "chatterjee": [
+        "chicken soup",
+        "cajun chicken salad"
+      ],
+      "euclid": [
+        "chicken"
+      ]
+    },
+    [
+      [
+        "hypatia"
+      ],
+      [
+        "brahmagupta"
+      ],
+      [
+        "leavitt"
+      ],
+      [
+        "ritchie"
+      ],
+      [
+        "chatterjee"
+      ],
+      [
+        "euclid"
+      ]
+    ]
+  ],
+  [
+    {
+      "rubin": [
+        "pizza",
+        "pizza"
+      ],
+      "swartz": [
+        "chicken sandwich",
+        "cajun chicken salad"
+      ],
+      "swirles": [
+        "pizza",
+        "chicken soup",
+        "chicken soup"
+      ],
+      "lehmann": [
+        "chicken soup"
+      ],
+      "brattain": [
+        "chicken soup",
+        "chicken"
+      ],
+      "euler": [
+        "chicken",
+        "chicken soup"
+      ]
+    },
+    [
+      [
+        "rubin"
+      ],
+      [
+        "swartz"
+      ],
+      [
+        "swirles"
+      ],
+      [
+        "lehmann"
+      ],
+      [
+        "brattain",
+        "euler"
+      ]
+    ]
+  ],
+  [
+    {
+      "blackburn": [
+        "chicken",
+        "chicken sandwich",
+        "chicken sandwich"
+      ],
+      "clarke": [
+        "chicken soup"
+      ],
+      "borg": [
+        "chicken"
+      ],
+      "zhukovsky": [
+        "chicken",
+        "pizza"
+      ],
+      "williams": [
+        "pizza"
+      ],
+      "kalam": [
+        "chicken soup",
+        "pizza",
+        "pizza"
+      ]
+    },
+    [
+      [
+        "blackburn"
+      ],
+      [
+        "clarke"
+      ],
+      [
+        "borg"
+      ],
+      [
+        "zhukovsky"
+      ],
+      [
+        "williams"
+      ],
+      [
+        "kalam"
+      ]
+    ]
+  ]
+]

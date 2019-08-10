@@ -18,7 +18,6 @@ class MyTest(TestCase):
     def tearDownClass(cls):
         elapsed = time.time() - cls.start
 
-
     @classmethod
     def patch(cls):
         def test_factory(test):
