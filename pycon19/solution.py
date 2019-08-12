@@ -1,6 +1,12 @@
 """
-input eg) {'pikachu': 'snack coke hamberger',}
-output eg) [['pikachu'],]
+input eg)
+{
+    'pikachu': ['snack', 'coke', 'hamberger'],
+    'charmander': ['snack', 'coke', 'hamberger'],
+    'squirtle': ['snack', ],
+}
+output eg)
+[['pikachu', 'charmander'], ['squirtle']]
 """
 
 class Solution:
