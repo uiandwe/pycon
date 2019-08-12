@@ -7,7 +7,7 @@ from .problems import problem_set
 
 class MyTest(TestCase):
     def adjust_result(self, result):
-        return sorted(result)
+        return sorted(map(lambda x: sorted(x), result))
 
     @classmethod
     def setUpClass(cls):
@@ -24,7 +24,6 @@ class MyTest(TestCase):
             def test_function(self):
                 input_, expected = test
                 actual = self.solver.solve(input_)
-
                 self.assertEqual(
                     self.adjust_result(actual),
                     self.adjust_result(expected)
