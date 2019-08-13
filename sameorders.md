@@ -6,7 +6,7 @@ Find Same orders
 
 
 ```
-input type: list[dict[str(person name), list[str](order list)]]
+input type: dict[str(person name), list[str](order list)]
 
 return type: list[list[str]] (people who have same orders)
 
