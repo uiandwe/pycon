@@ -18,9 +18,12 @@ given:
         'einstein': ['pizza', 'hamburger'],
         'bohr': ['pizza', 'chicken', 'cidar'],
         'curie': ['pizza', 'hamburger'],
+        'solomon': ['chicken'],
+        'torvalds': ['chicken', 'chicken'],
+        'knuth': ['chicken', 'chicken'],
     }
 ]
 
 answer:
-[['einstein', 'curie'], ['bohr']]
+[['einstein', 'curie'], ['bohr'], ['solomon'], ['torvalds', 'knuth']]
 ```
