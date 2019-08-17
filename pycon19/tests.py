@@ -32,8 +32,6 @@ class MyTest(TestCase):
             return test_function
 
         for i, test in enumerate(problem_set):
-            print("---------------")
-            print(test)
             setattr(cls, 'test_{}'.format(i), test_factory(test))
 
 
